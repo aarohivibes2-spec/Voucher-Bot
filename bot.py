@@ -22,7 +22,7 @@ from telegram.ext import (
 # ================= CONFIGURATION =================
 # Render ke Environment Variables se ya direct yahan se token lega
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "9107862411:AAFwC_C2yx-5sEHtzCm-_MG8OuBBCwxBXio")
-UPI_ID = os.environ.get("UPI_ID", "yourupi@ybl")  # Apni UPI ID yahan dalein
+UPI_ID = os.environ.get("UPI_ID", "Paytm.s2b9rko@pty")  # Apni UPI ID yahan dalein
 UPI_NAME = "Voucher Store"
 ADMIN_USERNAME = "LYIHU1"
 ADMIN_ID = 8687452366
