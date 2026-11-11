@@ -24,12 +24,12 @@ from telegram.ext import (
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "9107862411:AAFwC_C2yx-5sEHtzCm-_MG8OuBBCwxBXio")
 UPI_ID = os.environ.get("UPI_ID", "yourupi@ybl")  # Apni UPI ID yahan dalein
 UPI_NAME = "Voucher Store"
-ADMIN_USERNAME = "MeAdmin2906"
-ADMIN_ID = 123456789
+ADMIN_USERNAME = "LYIHU1"
+ADMIN_ID = 8687452366
 
 CHANNELS = [
-    ("🏳️ Join Channel 1", "https://t.me/your_channel_1", "@your_channel_1"),
-    ("🏳️ Join Channel 2", "https://t.me/your_channel_2", "@your_channel_2"),
+    ("🏳️ Join Channel 1", "https://t.me/Giftandcreditcardproofs", "@Giftandcreditcardproofs),
+    ("🏳️ Join Channel 2", "https://t.me/Amazon_refunds_all", "@Amazon_refunds_all),
 ]
 
 VOUCHERS = {
