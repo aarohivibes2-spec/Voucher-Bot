@@ -28,7 +28,7 @@ ADMIN_USERNAME = "LYIHU1"
 ADMIN_ID = 8687452366
 
 CHANNELS = [
-    ("Join Channel 1", "https://t.me/Giftandcreditcardproofs", "@Giftandcreditcardproofs")
+    ("Join Channel 1", "https://t.me/Giftandcreditcardproofs", "@Giftandcreditcardproofs"),
     ("Join Channel 2", "https://t.me/Amazon_refunds_all", "@Amazon_refunds_all")
 ]
 
